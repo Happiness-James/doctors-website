@@ -1,0 +1,280 @@
+#Home{
+    background-color: #e5fbfc;
+    padding: 40px 10%;
+
+}
+
+nav{
+    font-size: x-large;
+    text-align: right;
+    padding: 40px 10%;
+    background-color: #e5fbfc;
+    padding-inline: 20px;
+}       
+nav a{
+padding-inline: 20px;
+color:#000;
+text-decoration: none;
+}
+.pet{
+    text-decoration: none;
+    color: #000;
+    font-size: x-large;
+    font-weight: bold;
+    float: left;
+    padding-left: inherit;
+}
+.container{
+    padding: 40px 10%;
+}
+.dot{
+    color: blue;
+    font-weight: bold;
+}
+.line{
+    height: 2px;;
+    width: 40px;
+    margin-top: 3%;
+    margin-right: 5px;
+    background-color: rgb(223, 68, 12);
+    
+    
+}
+.line-wrapper{
+    display: flex;
+    color: rgb(223, 68, 12);
+    
+}
+.btn{
+    border-radius: 10px;
+    padding: 15px 60px;
+    background-color: rgba(0,163,172,255);
+    color: rgb(253, 252, 252);
+    border: none;
+    text-decoration: none;
+    
+}
+
+h1{
+    font-size: 50px;
+}
+.service{
+    display: flex;
+    padding: 40px 10%;
+}
+.service-question{
+    width: 50%;
+    align-items: center;
+    
+}
+.service-statement{
+    width: 50%;
+    align-items: center;
+    margin-top: 4%;
+}
+  .veteri{
+      display: flex;
+      padding: 40px 10%;
+      background-color: #e5fbfc;
+
+  }
+  .veteri-image{
+      width: 60%;
+      align-items: center;
+      margin-right: 50px;
+  }
+  .veteri-content{
+      width: 40%;
+      align-items: center;
+    
+  }
+  h2{
+      font-size: 40px;
+  }
+  p{
+      font-size: 20px;
+  }
+  img{
+      border-radius: 15px;
+      height: 140%;
+      width: 97%;
+
+  }
+  .button-contact{
+      border-radius: 10px;
+      padding: 15px 40px;
+      background-color: rgba(0,163,172,255);
+      color: rgb(253, 252, 252);
+      font-size: 15px;
+      text-decoration: none;
+      border: none;
+  }
+  #About{
+      background-color: #f6feff;
+  }
+  .others{
+      display: flex;
+      padding: 40px 10%;
+    
+  }
+  .others-say{
+      width: 65%;
+      align-items: center;
+  }
+  .others-content{
+      width: 35%;
+      align-items: center;
+      margin-top: 4%;
+  }
+  .comment{
+      display: flex;
+    
+  }
+  .comment-1{
+      width: 50%;
+      align-items: center;
+      background-color: #fcf9f9;
+      margin-right: 1%;
+      border-radius: 10px;
+    padding: 4%;
+      
+  }
+  .comment-2{
+      width: 50%;
+      align-items: center;
+      background-color: #fcf9f9;
+      border-radius: 10px;
+      padding: 4%;
+    
+  }
+  #Services{
+      background-color: #f6feff;
+      
+  }
+  .container-1{
+      display: flex;
+      padding: 40px 10%;
+  }
+  .container-1>div{
+    background-color: #ffffff;
+    width: 300px;
+    margin: 25px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 10px;
+  } 
+  .container-2{
+    display: flex;
+    padding: 40px 10%;
+}
+.container-2>div{
+  background-color: #ffffff;
+  width: 300px;
+  margin: 25px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 10px;
+} 
+.head{
+    display: flex;
+    padding: 40px 10%;
+}
+.head-1{
+    width: 80%;
+    align-items: center;
+}
+.head-2{
+    width: 20%;
+    align-items: center;
+    margin-top: 4%;
+    margin-left: 20%;
+}
+.images-docs{
+    display: flex;
+    padding: 40px 10%;
+}
+.images-docs-1{
+      width: 40%;
+      height: 200px;
+      
+}
+.images-docs-2{
+    width: 40%;
+    height: 200px;
+}
+.images-docs-3{
+    width: 40%;
+    height: 200px; 
+}
+ #contact{
+     background-color: #f6feff;
+ }
+ .box{
+     display: flex;
+     padding: 15% 10%;
+
+ }
+ .box1{
+     border: 1px #8f2b44;
+     height: 40.0vh;
+     width: 60.0vw;
+     background-color: #e5fbfc;
+     padding-left: 200px;
+     border-radius: 8px;
+     
+ }
+ .sub{
+    border-radius: 10px;
+    padding: 15px 40px;
+    background-color: rgba(0,163,172,255);
+    color: rgb(253, 252, 252);
+    font-size: 15px;
+    text-decoration: none;
+    border: none;
+    margin-left: -20.8%;
+ }
+ .input{
+     width: 30.7vw;
+     height:10.2vh ;
+     border-radius: 8px;
+     border: none;
+     font-size: medium;
+ }
+ .list{
+display: flex;
+margin-bottom: 4%;
+padding: 40px 10%;
+ }
+ p3{
+     font-size: larger;
+     font-weight: bold;
+
+ }
+ .photo-circle{
+     border: 70px solid #cae5e7;
+     border-radius: 60%;
+     height: 70%;
+     width: 30.7vw;
+
+
+
+ }
+ .photo{
+     margin-top: -10%;
+ }
+ .top{
+     display: flex;
+ }
+ .fa{
+     border: 10px solid #cae5e7;
+     border-radius: 80%;
+     margin-right: 200px;
+     margin-top: 8%;
+     background-color: #cae5e7;
+     
+ }
+ .quotes{
+     border: none;
+     font-size: 50px;
+     color: #ebeff0;
+ }
